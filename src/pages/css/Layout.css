@@ -4,3 +4,20 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+
+div{
+    background-color: white;
+    width: 400px;
+    height: 450px;
+    margin-left: 28%;
+    margin-top: 15%;
+    border-radius: 20px;
+}
+
+#login{
+    margin-right: 50%;
+    margin-top: 40%;
+}
+#sign{
+    margin-right: 50%;
+}
